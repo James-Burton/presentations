@@ -1,0 +1,21 @@
+Add shapefiles to your map:
+https://www.packt.com/shapefiles-leaflet/#more
+
+Review the source documentation:
+https://leafletjs.com/reference.html
+
+Open street maps API information:
+https://wiki.openstreetmap.org/wiki/API_v0.6
+
+Customized basemap options for leaflet deployments:
+https://leaflet-extras.github.io/leaflet-providers/preview/
+
+Add KML to your map in browser:
+https://bojithapiyathilake.medium.com/uploading-a-kml-file-and-displaying-the-coordinates-on-a-leaflet-map-c0d23b495941
+
+Layer controls on your leaflet app:
+https://leafletjs.com/examples/layers-control/
+
+There are so many more resources I can not show you.
+You are encouraged to continue your exploration down the open-source web gis dev and deployment "rabbit" hole.
+If you have questions, or wnat to begin your journey towards creating a unified Skeena Region Leaflet template, please reach out to me at james.burton@gov.bc.ca.
